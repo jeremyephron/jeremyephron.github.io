@@ -1,7 +1,10 @@
 <script type="text/x-mathjax-config">
   window.MathJax = {
     tex: {
-      equationNumbers: { autoNumber: "AMS" }
+      equationNumbers: { autoNumber: "AMS" },
+      inlineMath: [['$', '$'], ["\\(", "\\)"]],
+      displayMath: [['$$', '$$'], ["\\[", "\\]"]],
+      processEscapes: true
     },
     tex2jax: {
       inlineMath: [['$', '$'], ["\\(", "\\)"]],
