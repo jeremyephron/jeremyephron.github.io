@@ -1,5 +1,6 @@
-title: null
 name: Jeremy Ephron Barenholtz
+title: false
+markdown: GFM
 relative_links:
   enabled: true
   collections: true
