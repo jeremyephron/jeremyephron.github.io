@@ -1,6 +1,7 @@
 name: Jeremy Ephron Barenholtz
 title: Jeremy Ephron Barenholtz
 markdown: kramdown
+mathjax: true
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
